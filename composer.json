@@ -18,11 +18,6 @@
             "name": "sigaryov",
             "email": "y.sial@ya.ru",
             "role": "Developer"
-        },
-        {
-            "name": "dianakaal",
-            "email": "dianakaal@gmail.com",
-            "role": "Developer"
         }
     ],
     "require": {
