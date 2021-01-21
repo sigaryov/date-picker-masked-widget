@@ -35,7 +35,7 @@ USAGE
 **as a plain widget**
 ```
 <?php
-use dianakaal\DatePickerMaskedWidget\DatePickerMaskedWidget;
+use sigaryov\DatePickerMaskedWidget\DatePickerMaskedWidget;
 ?>
 <?=
     DatePickerMaskedWidget::widget([
@@ -89,7 +89,7 @@ use dianakaal\DatePickerMaskedWidget\DatePickerMaskedWidget;
 ------> WITHOUT A MODEL <------
 ```
 <?php
-use dianakaal\DatePickerMaskedWidget\DatePickerMaskedWidget;
+use sigaryov\DatePickerMaskedWidget\DatePickerMaskedWidget;
 ?>
 <?=
     DatePickerMaskedWidget::widget([
@@ -120,7 +120,7 @@ use dianakaal\DatePickerMaskedWidget\DatePickerMaskedWidget;
 ------> WITHOUT A MODEL <------
 ```
 <?php
-use dianakaal\DatePickerMaskedWidget\DateRangePickerMaskedWidget;
+use sigaryov\DatePickerMaskedWidget\DateRangePickerMaskedWidget;
 ?>
 <?=
     DateRangePickerMaskedWidget::widget([
@@ -148,7 +148,7 @@ use dianakaal\DatePickerMaskedWidget\DateRangePickerMaskedWidget;
 ------> WITH A MODEL <------
 ```
 <?php
-use dianakaal\DatePickerMaskedWidget\DateRangePickerMaskedWidget;
+use sigaryov\DatePickerMaskedWidget\DateRangePickerMaskedWidget;
 ?>
 <?=
     $form->field($model, 'startDate')->widget(DateRangePickerMaskedWidget::className(), [

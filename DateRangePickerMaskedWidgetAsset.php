@@ -6,10 +6,10 @@
  * @author dianakaal <dianakaal@gmail.com>
  * @Date: 12/02/16
  * @Description: Combination of Yii framework's Input Mask and yii2-date-picker widget.
- * @package dianakaal\DatePickerMaskedWidget
+ * @package sigaryov\DatePickerMaskedWidget
  */
 
-namespace dianakaal\DatePickerMaskedWidget;
+namespace sigaryov\DatePickerMaskedWidget;
 
 use yii\web\AssetBundle;
 
@@ -19,7 +19,7 @@ use yii\web\AssetBundle;
  */
 class DateRangePickerMaskedWidgetAsset extends AssetBundle
 {
-    public $sourcePath = '@vendor/dianakaal/date-picker-masked-widget';
+    public $sourcePath = '@vendor/sigaryov/date-picker-masked-widget';
 
     public $css = [
         'bootstrap-daterangepicker.css'
@@ -30,7 +30,7 @@ class DateRangePickerMaskedWidgetAsset extends AssetBundle
     ];
 
     public $depends = [
-	    'dianakaal\DatePickerMaskedWidget\DatePickerMaskedWidgetAsset'
+	    'sigaryov\DatePickerMaskedWidget\DatePickerMaskedWidgetAsset'
     ];
 
 }

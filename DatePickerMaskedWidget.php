@@ -6,10 +6,10 @@
  * @author dianakaal <dianakaal@gmail.com>
  * @Date: 12/02/16
  * @Description: Combination of Yii framework's Input Mask and yii2-date-picker widget.
- * @package dianakaal\DatePickerMaskedWidget
+ * @package sigaryov\DatePickerMaskedWidget
  */
 
-namespace dianakaal\DatePickerMaskedWidget;
+namespace sigaryov\DatePickerMaskedWidget;
 
 use yii\helpers\Html;
 use yii\helpers\Json;
