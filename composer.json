@@ -15,6 +15,11 @@
     "license": "BSD-3-Clause",
     "authors": [
         {
+            "name": "sigaryov",
+            "email": "y.sial@ya.ru",
+            "role": "Developer"
+        },
+        {
             "name": "dianakaal",
             "email": "dianakaal@gmail.com",
             "role": "Developer"
