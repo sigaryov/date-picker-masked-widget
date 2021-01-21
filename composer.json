@@ -1,5 +1,5 @@
 {
-    "name": "sigaryov/date-picker-masked-widget-alt",
+    "name": "sigaryov/date-picker-masked-widget",
     "type": "yii2-extension",
     "description": "Bootstrap DatePicker widget for Yii2 along with the Yii input mask functionality.",
     "keywords": [
